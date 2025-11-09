@@ -1,3 +1,14 @@
 __pycache__
 .env
 .learn
+
+# Ignore data folders
+/data/
+/data/raw/
+/data/processed/
+
+# Ignore model files
+/models/
+*.pkl
+*.h5
+*.sav
